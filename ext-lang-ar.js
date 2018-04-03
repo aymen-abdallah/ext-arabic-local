@@ -1,7 +1,7 @@
 /**
  * Arabic Translation for Ext JS 4
  * (03 mai 2012)
- * By Aymen ABDALLAH
+ * By Aymen Abdallah
  * aymen.abdallah@gmail.com
  */
 
